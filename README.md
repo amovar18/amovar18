@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amovar18 A.K.A Amoghavarsha
-- I am an upcoming senior year student at LDRP Institute of Technology and Research.
+- I am a senior year student at LDRP Institute of Technology and Research.
 - 👀 I primarirly work on frontend web development with React.Js but I can also work on Mobile application development.
 - 🌱 I’m currently work in React.Js, Node.Js, Express.Js.
 - I work with all kinds of databases from MonogoDB to Firebase for NoSQL, PostgreSQL to MySQL for SQL databases.
