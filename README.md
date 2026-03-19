@@ -12,6 +12,11 @@ I am a Senior Software Engineer at rtCamp, based in Gujarat, India. I specialize
 * **Complex Integrations**: Led record-time integrations for Google’s Web Stories plugin, successfully embedding it into Joomla CMS in 3 months and Hugo in 1 month.
 * **Quality & Mentorship**: I am a strong advocate for code quality, having boosted project test coverage from 59% to 85%. I also created a dedicated React.js course to train developers and clients.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amovar18&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amovar18&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 ---
 
 ### 💻 Tech Stack
